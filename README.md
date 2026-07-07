@@ -1,3 +1,7 @@
+<!-- hy-mt2-i18n:start -->
+[English](./README.md) | [日本語](./README_ja.md) | [Español](./README_es.md)
+<!-- hy-mt2-i18n:end -->
+
 <p align="left">
     <a href="README_CN.md">中文</a>&nbsp;｜&nbsp;English
 </p>
